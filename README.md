@@ -9,3 +9,8 @@ I also enjoy VFX(Visual Effects) and play grade 4 piano.
 # Current Projects
 My most recent project is `rainbowtables` - which is a form of hash table used for finding a plaintext match for a 
 hash.
+
+# Stats
+My current stats. \
+[![ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustBennnn&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) \
+[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustBennnn&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
