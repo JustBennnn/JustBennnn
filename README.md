@@ -7,7 +7,7 @@ created a variety of small projects. Currently, I am mostly making API wrappers 
 I also enjoy VFX(Visual Effects) and play grade 4 piano.
 
 # Current Projects
-My most recent project is ['rainbowtables'](https://github.com/justbennnn/rainbowtables "") - a library where the user can create their own rainbowtable.
+My most recent project is [rainbowtables](https://github.com/justbennnn/rainbowtables "") - a library where the user can create their own rainbowtable.
 
 # Stats
 My current stats. \
