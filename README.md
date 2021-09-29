@@ -7,7 +7,7 @@ created a variety of small projects. Currently, I am mostly making API wrappers 
 Apart from programming, I also enjoy VFX(Visual Effects) and play grade 4 piano.
 
 # Current Projects
-My most recent project is [`rainbowtables`](https://github.com/justbennnn/rainbowtables "") - a library where the user can create their own rainbowtable.
+My most recent project is [`minecraftstats`](https://github.com/JustBennnn/minecraftstats "") - a library where the user can access stats from the Hypixel minecraft server.
 
 # Stats
 My current stats. \
